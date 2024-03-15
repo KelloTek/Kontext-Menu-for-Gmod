@@ -1,7 +1,7 @@
 # Kontext Menu for Gmod
 A free context menu for RolePlay
 
-Features
+**Features**
 - Drop Weapon Button
 - Drop Money Button
 - Third Person Button (require simple third person by FailCake)
