@@ -10,5 +10,4 @@ A free context menu for RolePlay
 - Shop Link Button
 - Administration Button (require kadmin by KelloTek)
 
-**Possible configurations**
 To configure go to "kontext_menu/lua/autorun/sh_config.lua"
